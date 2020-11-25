@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="new_phrase">New Phrase</string>
+    <string name="whats_your_name">Whats your name</string>
+    <string name="user">User</string>
+    <string name="phrase">Phrase</string>
+    <string name="save">Save</string>
+    <string name="lets_begin">Let\'s get started</string>
+    <string name="all_phrases">All phrases</string>
+    <string name="motivation_phrases">Motivation phrases</string>
+    <string name="morning_phrases">Morning phrases</string>
+</resources>
